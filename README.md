@@ -2,7 +2,7 @@
 Laravel Wrapper for BUKA SMS API
 
 # Installation
-composer r
+composer require marklestermorta/buka-sms-api-laravel
 
 # Publish Configuration file
 php artisan vendor:publish --provider="MarkLesterMorta\BukaSMSApi\BukaSMSApiServiceProvider"
